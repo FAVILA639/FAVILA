@@ -1,0 +1,23 @@
+body{
+	margin-left: 10px;
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	background-color: #FF8C00;
+}
+h2{
+	text-align: center;
+	font-family: arialback;
+	color: black;
+}
+h6{
+	text-align: center;
+	font-family: arialback;
+}
+p{
+	font-family: arial;
+}
+a{
+	font-family: arial black;
+	color:red;
+}
